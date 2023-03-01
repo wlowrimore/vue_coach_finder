@@ -1,3 +1,3 @@
 <template>
-  <section>REQUESTS RECEIVED</section>
+  <section style="color: white">REQUESTS RECEIVED</section>
 </template>

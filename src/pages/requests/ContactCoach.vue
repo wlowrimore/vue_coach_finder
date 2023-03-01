@@ -1,3 +1,3 @@
 <template>
-  <section>CONTACT COACH</section>
+  <section style="color: white">CONTACT COACH</section>
 </template>
